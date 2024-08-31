@@ -1,0 +1,11 @@
+C:\Users\HP>cd Desktop
+
+C:\Users\HP\Desktop>cd Backend-G8
+
+C:\Users\HP\Desktop\Backend-G8>code .
+'code' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\Backend-G8>code .
+'code' is not recognized as an internal or external command,
+operable program or batch file.
